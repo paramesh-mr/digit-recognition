@@ -1,1 +1,1 @@
-# digital-recognition
+# digit-recognition
